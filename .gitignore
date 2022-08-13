@@ -1,0 +1,7 @@
+.hiddy.txt
+hidden.txt
+
+$ git status
+$ git log
+$ git status
+$ cat .gitignore
